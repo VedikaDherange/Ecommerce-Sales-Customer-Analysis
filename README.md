@@ -40,6 +40,8 @@ flowchart TD
     E --> F[Data Modeling and DAX Measures]
     F --> G[Interactive Dashboard]
     G --> H[Business Insights and Recommendations]
+```
+
 ## 📂 Dataset Information
 
 The project uses e-commerce datasets containing information about:
